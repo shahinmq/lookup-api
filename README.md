@@ -16,8 +16,9 @@ curl_close($curl);
 
 $response = json_decode($response);
 
-//OUTPUT (JSON) :
-
+?>
+**//OUTPUT (JSON) :
+**
 {
     "remaining_request": 5001,
     "ok": true,
